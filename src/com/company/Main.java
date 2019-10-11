@@ -11,7 +11,7 @@ public class Main {
       //  while(true){
             try {
 
-                System.out.println("Input length: ");
+                System.out.println("Input length:^ ");
                 length = in.nextInt();
                 System.out.println("Input height: ");
                 height = in.nextInt();
