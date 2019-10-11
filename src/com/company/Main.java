@@ -10,7 +10,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
       //  while(true){
             try {
-                System.out.println("HI.");
+
                 System.out.println("Input length: ");
                 length = in.nextInt();
                 System.out.println("Input height: ");
