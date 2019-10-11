@@ -9,7 +9,8 @@ public class Main {
 
         Scanner in = new Scanner(System.in);
       //  while(true){
-            try {
+            try {\
+                System.out.println("Incorrifgnhoijndo.");
 
                 System.out.println("Input length:^ ");
                 length = in.nextInt();
